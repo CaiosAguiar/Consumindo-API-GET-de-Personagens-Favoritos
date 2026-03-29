@@ -1,0 +1,5 @@
+com\tads\senacflix\controller\FilmeController.class
+com\tads\senacflix\dto\PersonagemDTO.class
+com\tads\senacflix\controller\PersonagemController.class
+com\tads\senacflix\SenacflixApplication.class
+com\tads\senacflix\model\Filme.class
